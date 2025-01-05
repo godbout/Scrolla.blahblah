@@ -3,7 +3,8 @@
     <h1>Intelligently grab Scrollable Areas under macOS, and scroll using your keyboard.</h1>
 </div>
 
-![awesome stuff happening in there again](https://raw.githubusercontent.com/godbout/Scrolla.docs/master/assets/gif.gif "hehe again")
+https://github.com/user-attachments/assets/4642a003-46a8-4989-936f-409706be32de
+
 ---
 
 # The Site
