@@ -103,7 +103,7 @@ You can control Scrolla programmatically by calling the following Custom URLs:
 * custom key mapping
 * stop stealing focus from current window
 
-# Alternatives to Scrolla
+# Alternatives
 
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
 * [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs) (closed source, free)
