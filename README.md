@@ -21,7 +21,7 @@ no license. Scrolla is free. it's not open source because it's sharing private p
 
 # The Docs
 
-The Docs are now at [here](https://docs.scrolla.app). still looking a bit funky sorry.
+The Docs are now [here](https://docs.scrolla.app). still looking a bit funky sorry.
 
 # The Roadmap
 
