@@ -17,7 +17,7 @@ i'm lazy af. can't be bothered moving the hands away from the keyboard.
 
 # The License
 
-no license. Scrolla is free. it's not open source because it's sharing private packages with [kindaVim](https://github.com/godbout/kindaVim.docs) and [Wooshy](https://github.com/godbout/Wooshy.docs). but maybe one day. but most probably never. (actually not true as a system has been put in place to release Scrolla open source in case of unwarranted death.)
+no license. Scrolla is free. it's not open source because it's sharing private packages with [kindaVim](https://github.com/godbout/kindaVim.docs) and [Wooshy](https://github.com/godbout/Wooshy.docs). but maybe one day. but most probably never. (actually not true as a system has already been put in place to release Scrolla and the other apps open source in case of unwarranted death.)
 
 # The Docs
 
