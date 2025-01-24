@@ -25,7 +25,7 @@ The Docs are now [here](https://docs.scrolla.app). still looking a bit funky sor
 
 # The Roadmap
 
-* custom key mapping
+* allow for custom key mapping
 * stop stealing focus from current window
 
 # The Alternatives
